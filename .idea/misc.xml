@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/drawable/barchart_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/drawable/button_and_editext_custom_shape.xml" value="0.2703125" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/drawable/staticstic.xml" value="0.2703125" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/drawable/whitecarticon.xml" value="0.2703125" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/activity_addproduct.xml" value="0.2" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/activity_categories.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/activity_forget_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/activity_google_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/activity_log_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/activity_orders.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/activity_products.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/activity_statisitcs_bar_chart.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/activity_statistics.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/custom_categories_recyclerview_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/custom_order_recyclerviewitem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/custom_product_recyclerview_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/custom_toast.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/popup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/popup_determine_locationfirst.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/layout/popup_done.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/menu/logout.xml" value="0.264" />
+        <entry key="..\:/Users/ABDO/Desktop/Ecommerce 2/Ecommerce/app/src/main/res/menu/update_or_delete.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

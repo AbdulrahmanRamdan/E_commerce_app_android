@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <Button
+        android:id="@+id/btn_confirm_location"
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="20dp"
+        android:layout_weight="1"
+        android:background="@color/darkred"
+        android:drawableLeft="@drawable/locationicon"
+        android:paddingLeft="60dp"
+        android:paddingRight="80dp"
+        android:text="Confirm Location"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck" />
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="650dp"
+        tools:context=".Activities.GoogleMapsActivity" />
+</LinearLayout>
